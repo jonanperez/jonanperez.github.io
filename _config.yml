@@ -1,12 +1,12 @@
-title: Mi página
+title: Repositorio Jon Ander Pérez
 author: Jon Ander Pérez
 email: jonanperez@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
-  Bienvenidos a mi página.
+  Bienvenidos a mi repositorio.
 
 # social links
-twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o la compilación fallará!
-github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
+twitter_username: jonande_perez # NO incluyas el carácter @ character, ¡o la compilación fallará!
+github_username:  jonanperez # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
 theme: minima
