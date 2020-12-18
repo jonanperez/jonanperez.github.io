@@ -3,6 +3,7 @@ title: "Jon Ander"
 date: 2020-11-03
 ---
 
+#Diseño#
 
 __Un nuevo tipo de comunicación__
 Internet ha roto con el paradigma comunicativo clásico y ha creado un nuevo modelo mediante la trasformación de las variantes tradicionales; de esta forma, se genera un nuevo espacio virtual donde convergen todos los tipos de comunicación preexistentes.
